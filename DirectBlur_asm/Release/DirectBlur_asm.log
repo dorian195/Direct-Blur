@@ -1,0 +1,11 @@
+﻿  Assembling DirectBlur.asm...
+DirectBlur.asm(1): error A2013: .MODEL must precede this directive
+DirectBlur.asm(6): error A2034: must be in segment block : pobierz_piksel
+DirectBlur.asm(8): error A2034: must be in segment block
+DirectBlur.asm(9): error A2034: must be in segment block
+DirectBlur.asm(10): error A2034: must be in segment block
+DirectBlur.asm(11): error A2034: must be in segment block
+DirectBlur.asm(12): error A2034: must be in segment block
+DirectBlur.asm(14): error A2034: must be in segment block
+DirectBlur.asm(15): fatal error A1010: unmatched block nesting : pobierz_piksel
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: Polecenie ml.exe /c /nologo /Zi /Fo"Release\DirectBlur.obj" /W3 /errorReport:prompt  /TaDirectBlur.asm zostało zakończone; kod błędu: 1.

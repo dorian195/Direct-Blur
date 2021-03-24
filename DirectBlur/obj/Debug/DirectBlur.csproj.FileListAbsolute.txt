@@ -1,0 +1,15 @@
+D:\Uczelnia\JA\DirectBlur\DirectBlur\bin\Debug\DirectBlur.exe.config
+D:\Uczelnia\JA\DirectBlur\DirectBlur\bin\Debug\DirectBlur.exe
+D:\Uczelnia\JA\DirectBlur\DirectBlur\bin\Debug\DirectBlur.pdb
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\DirectBlur.csprojAssemblyReference.cache
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\View\MainWindow.g.cs
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\App.g.cs
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\DirectBlur_MarkupCompile.cache
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\DirectBlur_MarkupCompile.lref
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\View\MainWindow.baml
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\DirectBlur.g.resources
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\DirectBlur.Properties.Resources.resources
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\DirectBlur.csproj.GenerateResource.cache
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\DirectBlur.exe
+D:\Uczelnia\JA\DirectBlur\DirectBlur\obj\Debug\DirectBlur.pdb
